@@ -4,8 +4,10 @@ My first ubuntu web server using Terraform with AWS.
 
 ## How to run
 
-```> terraform init
+```bash
+> terraform init
 
-> terraform apply```
+> terraform apply
+```
 
 Now you insert your access key, region and secret key.
